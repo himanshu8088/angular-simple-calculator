@@ -1,0 +1,33 @@
+.btn{
+    width: 100px;
+    height: 100px;
+    margin: 2px 2px;
+    background: white;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.display-input{
+    width: 412px ;
+    height: 50px ;
+    background: rgba(233, 231, 231, 0.904);
+    float: right;
+    font-size: xx-large;
+}
+
+.display-exp{
+    width: 412px ;
+    height: 50px ;
+    background: rgba(233, 231, 231, 0.904);
+    float: right;
+    font-size: x-large;
+    font-weight: lighter;
+}
+
+.row {
+    background: rgba(233, 231, 231, 0.904);
+}
+
+.container{
+    width: 416px ;
+}
